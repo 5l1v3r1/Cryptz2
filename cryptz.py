@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Created By benelhaj_younes(Do0pH2ck) and i.nc0gnt0(inc0gnit0)
+# Created By r2dr0dn
 # CopyRight , All rights Received (GNU Rights)
 # Don't Copy The Code Without Giving Me The Credits Nerds !!!
 try:
@@ -47,15 +47,15 @@ unknown14="\033[38;5;113m"
 unknown15="\033[38;5;14m"
 ##########################
 def banner():
-    print(unknown2 + "\n  https://github.com/doophack/CRYPTZ\n")
+    print(unknown2 + "\n  https://github.com/r2dr0dn\n")
     print(unknown15 + "   ####   #####   #   #  #####   #####  ###### ")
     print(unknown15 + "  #    #  #    #   # #   #    #    #        # ")
     print(unknown15 + "  #       #    #    #    #    #    #       # ")
     print(unknown15 + "  #       #####     #    #####     #      # ")
     print(unknown15 + "  #    #  #   #     #    #         #     # ")
     print(unknown15 + "   ####   #    #    #    #         #    ######  \033[31m" + "v3.0" + "\033[0m \n")
-    print(unknown15 + "  made by: " + Red + "Do0pH2ck and inc0gnit0\n" + Reset)
-    print(unknown15 + "  Instagram: " + Red +"benelhaj_younes(Do0pH2ck) i.nc0gnit0(inc0gnit0)\n" + Reset)
+    print(unknown15 + "  made by: " + Red + "r2dr0dn\n" + Reset)
+    print(unknown15 + "  Twit: " + Red +"@r2dr0dn\n" + Reset)
 def main():
     for i in range(1):
         banner()
