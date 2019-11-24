@@ -11,6 +11,6 @@ __CBC__, __PSK__, __CTR__, __GCM__, __AEX__, __CCM__
 ## Compiled Version 
 __Version3__ In Cryptz4
 
-## Created and Written by Benelhaj_younes 
+## Created and Written by ____r2dr0dn____ 
 
 
