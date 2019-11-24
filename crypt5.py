@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Created By benelhaj_younes(Do0pH2ck)
+# Created By r2dr0dn
 # CopyRight , All rights Received (GNU Rights)
 # Don't Copy The Code Without Giving Me The Credits Nerd !!!
 try:
@@ -54,9 +54,9 @@ def banner():
     print( unknown15 + " #    #  #   #     #    #         #     # ")
     print( unknown15 + "  ####   #    #    #    #         #    ###### ")
     print( Red + """
-    	made by Do0pH2ck and inc0gnit0
+    	made by r2dr0dn
 
-    	Instagram: benelhaj_younes(Do0pH2ck) i.nc0gnit0(inc0gnit0)
+    	Em: @r2dr0dn
     	""")
 def main():
     for i in range(1):
